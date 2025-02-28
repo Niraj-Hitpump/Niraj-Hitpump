@@ -31,6 +31,13 @@
 
 ---
 
+### 📊 GitHub Stats & Trophies:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=false)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=tokyonight)
+
+---
+
 ### 📫 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=flat&logo=firefox&logoColor=white)](https://your-portfolio.com)
