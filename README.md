@@ -43,12 +43,11 @@
 
 ---
 ### 📫 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/niraj-kumar-prajapati-78474a264))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/niraj-kumar-prajapati-78474a264)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/your-profile)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/your-profile)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/fzZLFqiHMc/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=flat&logo=firefox&logoColor=white)](https://your-portfolio.com)
 
-🚀 **Let's build something amazing together!**
 
 
 🚀 **Let's build something amazing together!**
