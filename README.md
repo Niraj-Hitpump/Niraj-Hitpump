@@ -6,35 +6,40 @@
 
 ---
 
+### 📊 GitHub Stats & Trophies:
+🏆 **GitHub Trophies**
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=tokyonight&margin-w=15&no-frame=true)
+
+🔥 **GitHub Streak**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=false)
+
+📈 **GitHub Stats**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=false)
+
+---
+
 ### 🛠 Tech Stack & Skills:
-- **Programming:** Python, JavaScript, TypeScript, C++
-- **Frontend:** React.js, Next.js, Tailwind CSS, HTML, CSS
-- **Backend:** Node.js, Express.js, Django, Flask
-- **Databases:** MongoDB, MySQL, PostgreSQL
-- **DevOps & Tools:** Docker, Git, GitHub, Vercel, Firebase
-- **Machine Learning & AI:** TensorFlow, OpenCV, NLP
-- **Other:** Web Security, Ethical Hacking, Cloud Computing (AWS, GCP)
+🚀 **Programming:** Python, JavaScript, TypeScript, C++
+🎨 **Frontend:** React.js, Next.js, Tailwind CSS, HTML, CSS
+🛠 **Backend:** Node.js, Express.js, Django, Flask
+💾 **Databases:** MongoDB, MySQL, PostgreSQL
+🚀 **DevOps & Tools:** Docker, Git, GitHub, Vercel, Firebase
+🧠 **Machine Learning & AI:** TensorFlow, OpenCV, NLP
+🔒 **Other:** Web Security, Ethical Hacking, Cloud Computing (AWS, GCP)
 
 ---
 
 ### 🌱 Currently Learning:
-- Advanced AI models & NLP techniques
-- Cloud-native application development
-- Blockchain & Web3 development
+📚 Advanced AI models & NLP techniques  
+☁️ Cloud-native application development  
+🔗 Blockchain & Web3 development  
 
 ### 📌 Projects & Contributions:
-- **[ZeroTrace](https://github.com/your-repo)** – Data redaction, masking & anonymization system using AI.
-- **[Medicine Recommendation System](https://github.com/your-repo)** – AI-driven healthcare recommendation platform.
-- **Mblog** – A full-stack blog platform using Django & React.
+🔹 **[ZeroTrace](https://github.com/your-repo)** – Data redaction, masking & anonymization system using AI.  
+🔹 **[Medicine Recommendation System](https://github.com/your-repo)** – AI-driven healthcare recommendation platform.  
+🔹 **Mblog** – A full-stack blog platform using Django & React.  
 
 ✍ Check out my repositories for more cool projects!
-
----
-
-### 📊 GitHub Stats & Trophies:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=false)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=false)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=tokyonight)
 
 ---
 
