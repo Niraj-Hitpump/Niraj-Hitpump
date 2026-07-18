@@ -115,22 +115,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niraj-Hitpump&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niraj-Hitpump&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj-Hitpump&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Niraj-Hitpump&theme=tokyonight&margin-w=15&no-frame=true" alt="GitHub Trophies"/>
-</p>
-
----
 
 ### 📫 Connect With Me
 
